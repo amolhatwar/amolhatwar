@@ -8,11 +8,11 @@ All about me
 
 ### Happy to see you here! 
 I'm dedicated to improving my Excel skills, focusing on advanced functions, pivot tables, data visualization, and automation. I’m passionate about turning data into meaningful insights and continuously learning how to streamline workflows. My goal is to apply my Excel knowledge to real-world problems, improve productivity, and support data-driven decision-making.
+
 **Talking about Personal Stuffs:**
 
-<img align="right" alt="GIF" src="https://github.com/amolhatwar/About_Me/blob/817e28972bbc598eb68092f766372b027729f5e8/Blue%20Modern%20Data%20Analysis%20Your%20Story.jpg" width="375" height="375" />
-  
-
+<img align="right" alt="GIF" src="https://github.com/amolhatwar/About_Me/blob/817e28972bbc598eb68092f766372b027729f5e8/Blue%20Modern%20Data%20Analysis%20Your%20Story.jpg" width="325" height="325" />
+ 
 - 👨🏻‍💻 I’m currently Learning Excel;
 - 🚀 I’m learning A.I Magics;
 
